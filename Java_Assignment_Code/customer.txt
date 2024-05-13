@@ -1,0 +1,14 @@
+Myles,12345,Soh Myles,99999999,Male
+
+Boon,654321,Wong Boon Hong,4908573489057,Male
+
+Test,2022,Liam,556600077,Female
+
+Teow,334455,test,123456,Female
+
+Test1,1234567890,Tester,0987654321,Female
+
+
+
+Lester,12345,Lester Liew,23984573485784,Male
+

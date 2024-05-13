@@ -1,0 +1,4 @@
+Burger,12,Food,C:\Users\myles\OneDrive\Desktop\Java_Assignment_Code\Pictures\borgir.jpg
+Curly Spaghetti,10,Food,C:\Users\myles\OneDrive\Desktop\Java_Assignment_Code\Pictures\Spaghet.jpg
+Coca-Cola,5,Beverage,C:\Users\myles\OneDrive\Desktop\Java_Assignment_Code\Pictures\cocacolaespuma.jpg
+Spaghetti 2,30,Beverage,C:\Users\myles\OneDrive\Desktop\Java_Assignment_Code\Pictures\Saghet2.jpg
