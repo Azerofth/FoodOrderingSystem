@@ -1,2 +1,2 @@
 # Cafeteria-Ordering-System
-Diploma Java Project which applied some Object-Oriented Programming
+Degree Java Project which applied Object-Oriented Programming
